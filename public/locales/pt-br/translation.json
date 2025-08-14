@@ -1,0 +1,83 @@
+{
+  "aside": {
+    "profile": "Perfil",
+    "students": "Alunos",
+    "evaluations": "Avaliações",
+    "grades": "Notas"
+  },
+  "notaModal": {
+    "editTitle": "Editar Nota",
+    "newTitle": "Nova Nota",
+    "selectStudent": "Selecione o aluno",
+    "selectEvaluation": "Selecione a avaliação",
+    "grade": "Nota",
+    "cancel": "Cancelar",
+    "save": "Salvar"
+  },
+  "notaList": {
+    "title": "Gestão de Notas",
+    "subtitle": "Gerencie as notas",
+    "newGrade": "+ Nova Nota"
+  },
+  "footer": {
+    "copyright": "Copyright © <1>Avalia+</1> {{year}}",
+    "terms": "Termos de Uso",
+    "privacy": "Política de Privacidade"
+  },
+  "header": {
+    "search": "Pesquisar..."
+  },
+  "login": {
+    "subtitle": "Seu sistema de gerenciamento de notas.",
+    "email": "Email",
+    "emailPlaceholder": "Digite o seu email",
+    "password": "Senha",
+    "passwordPlaceholder": "Digite a sua senha",
+    "button": "Entrar",
+    "noAccount": "Não possui conta? Clique aqui"
+  },
+  "alunos": {
+    "title": "Gestão de Alunos",
+    "subtitle": "Gerencie os alunos da instituição",
+    "newStudent": "+ Novo Aluno",
+    "matricula": "Matrícula",
+    "edit": "Editar",
+    "remove": "Remover",
+    "removeConfirm": "Tem certeza que deseja remover {{name}}?"
+  },
+  "registro": {
+    "logoAlt": "Logo do site",
+    "subtitle": "Crie sua conta para acessar nossos recursos",
+    "email": "Email",
+    "emailPlaceholder": "Digite o seu email",
+    "name": "Nome",
+    "namePlaceholder": "Digite o seu nome",
+    "password": "Senha",
+    "passwordPlaceholder": "Digite a sua senha",
+    "confirmPassword": "Confirmar senha",
+    "confirmPasswordPlaceholder": "Repita a sua senha",
+    "button": "Registrar",
+    "loginLink": "Já possui uma conta? Clique aqui para entrar"
+  },
+  "turmas": {
+    "title": "Minhas Turmas",
+    "subtitle": "Gerencie suas turmas e organize seus alunos",
+    "newClass": "+ Nova Turma"
+  },
+  "perfil": {
+    "needLogin": "Você precisa estar logado para ver esta página.",
+    "avatarAlt": "Foto de perfil",
+    "name": "Nome",
+    "surname": "Sobrenome",
+    "profession": "Profissão",
+    "email": "Email",
+    "edit": "Editar",
+    "save": "Salvar",
+    "logout": "Sair"
+  },
+  "avaliacaoList": {
+    "title": "Gestão de Notas e Avaliações",
+    "subtitle": "Gerencie as notas e avaliações",
+    "newEvaluation": "+ Nova Avaliação"
+  }
+}

@@ -1,0 +1,33 @@
+.avaliacoesContainer {
+  margin: 0 auto;
+  padding: 25px;
+  margin-top: 3rem;
+  min-height: calc(100vh - 177px);
+}
+
+.avaliacoesHeader {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  margin-bottom: 50px;
+}
+
+.titulo {
+  font-size: 2rem;
+  font-weight: bold;
+  color: #333;
+  margin: 0 0 5px 0;
+}
+
+.subtitulo {
+  font-size: 1rem;
+  color: #666;
+  margin: 0;
+}
+
+.avaliacoesGrid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 25px;
+  list-style: none;
+}

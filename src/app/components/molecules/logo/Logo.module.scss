@@ -1,0 +1,7 @@
+.logoImg {
+  display: block;
+
+  @media (max-width: 600px) {
+    display: none;
+  }
+}

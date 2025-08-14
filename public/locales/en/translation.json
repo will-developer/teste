@@ -1,0 +1,83 @@
+{
+  "aside": {
+    "profile": "Profile",
+    "students": "Students",
+    "evaluations": "Evaluations",
+    "grades": "Grades"
+  },
+  "notaModal": {
+    "editTitle": "Edit Grade",
+    "newTitle": "New Grade",
+    "selectStudent": "Select student",
+    "selectEvaluation": "Select evaluation",
+    "grade": "Grade",
+    "cancel": "Cancel",
+    "save": "Save"
+  },
+  "notaList": {
+    "title": "Grade Management",
+    "subtitle": "Manage grades",
+    "newGrade": "+ New Grade"
+  },
+  "footer": {
+    "copyright": "Copyright © <1>Avalia+</1> {{year}}",
+    "terms": "Terms of Use",
+    "privacy": "Privacy Policy"
+  },
+  "header": {
+    "search": "Search..."
+  },
+  "login": {
+    "subtitle": "Your grade management system.",
+    "email": "Email",
+    "emailPlaceholder": "Enter your email",
+    "password": "Password",
+    "passwordPlaceholder": "Enter your password",
+    "button": "Sign in",
+    "noAccount": "Don't have an account? Click here"
+  },
+  "alunos": {
+    "title": "Student Management",
+    "subtitle": "Manage the institution's students",
+    "newStudent": "+ New Student",
+    "matricula": "Registration",
+    "edit": "Edit",
+    "remove": "Remove",
+    "removeConfirm": "Are you sure you want to remove {{name}}?"
+  },
+  "registro": {
+    "logoAlt": "Site logo",
+    "subtitle": "Create your account to access our features",
+    "email": "Email",
+    "emailPlaceholder": "Enter your email",
+    "name": "Name",
+    "namePlaceholder": "Enter your name",
+    "password": "Password",
+    "passwordPlaceholder": "Enter your password",
+    "confirmPassword": "Confirm password",
+    "confirmPasswordPlaceholder": "Repeat your password",
+    "button": "Register",
+    "loginLink": "Already have an account? Click here to sign in"
+  },
+  "turmas": {
+    "title": "My Classes",
+    "subtitle": "Manage your classes and organize your students",
+    "newClass": "+ New Class"
+  },
+  "perfil": {
+    "needLogin": "You need to be logged in to view this page.",
+    "avatarAlt": "Profile picture",
+    "name": "Name",
+    "surname": "Surname",
+    "profession": "Profession",
+    "email": "Email",
+    "edit": "Edit",
+    "save": "Save",
+    "logout": "Logout"
+  },
+  "avaliacaoList": {
+    "title": "Grades and Evaluations Management",
+    "subtitle": "Manage grades and evaluations",
+    "newEvaluation": "+ New Evaluation"
+  }
+}

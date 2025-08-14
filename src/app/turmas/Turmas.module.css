@@ -1,0 +1,42 @@
+.turmasContainer {
+  margin: 0 auto;
+  padding: 25px;
+  margin-top: 3rem;
+  min-height: calc(100vh - 177px);
+}
+
+.turmasHeader {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  margin-bottom: 50px;
+}
+
+.titulo {
+  font-size: 2rem;
+  font-weight: bold;
+  color: #333;
+  margin: 0 0 5px 0;
+}
+
+.subtitulo {
+  font-size: 1rem;
+  color: #666;
+  margin: 0;
+}
+
+.botaoNovaTurma {
+  background: #007bff;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.turmasGrid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 25px;
+  list-style: none;
+}
